@@ -1,0 +1,12 @@
+.main .main_top {
+    display: flex;
+    align-items: center;
+}
+.main div h4{
+    margin: 0 0 0 16px;
+}
+.main > h4{
+    font-weight: 100;
+    margin: 10px 0 10px 0;
+    color: rgb(110, 110, 110);
+}

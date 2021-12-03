@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(235, 231, 231);
+}
+ul{
+    list-style-type:none;
+}
+li{
+    color: blue;
+}
+.footer p{
+    text-align: center;
+    padding-bottom: 25px;
+    color: rgb(116, 116, 116);
+}
